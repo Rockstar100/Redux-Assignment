@@ -1,5 +1,5 @@
 import React from 'react'
-import {useSelector, useSDispatch} from 'react-redux'
+import {useSelector, useDispatch} from 'react-redux'
 
 export default function Todo() {
     const todos = useSelector(state => state.todos)
