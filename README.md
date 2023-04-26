@@ -1,2 +1,2 @@
-# Reducer-Assignment
-Reducer Assignment
+# Redux-Assignment
+Redux Assignment
